@@ -1,4 +1,4 @@
-# Quiz Game in C++
+# ITC Project Quiz Game in C++
 
 This is a simple **console-based Quiz Game project** built in C++.  
 It includes a **login system** and multiple-choice quizzes from different subjects.
